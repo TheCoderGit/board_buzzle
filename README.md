@@ -8,4 +8,4 @@ this project can be build for Windows, Linux, Mac. and is also responsive for sm
 
 
 
-- [made by Ahmed Salem](https://profile.ahmedsalem.link)
+- [made by Ahmed Salem](http://profile.ahmedsalem.link)
